@@ -12,4 +12,4 @@ func sumMultiples() -> Int {
 }
 
 let result = sumMultiples()
-print("The sum of the multiples of 3 and 5 between 0 and 1000 is: \(result)")
+print("The sum of the multiples of 3 and 5 between 0 and 1000 is: \(resul
